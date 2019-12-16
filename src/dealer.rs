@@ -2,7 +2,7 @@ use super::player::Player;
 use crate::player::Draw;
 use std::fmt;
 
-struct Participant {
+pub struct Participant {
     name: String,
     player: Player,
 }
@@ -18,14 +18,14 @@ impl PartialEq for Participant {
 }
 pub struct Dealer {
     pub round: u32,
-    participants: Vec<Participant>,
+    pub participants: Vec<Participant>,
 }
 
 impl Dealer {
     #[inline]
     pub fn new() -> Dealer {
         Dealer {
-            round: 1,
+            round: 0,
             participants: Vec::new(),
         }
     }
@@ -39,7 +39,6 @@ impl Dealer {
     pub fn can_play_round(&self) -> bool {
         self.participants.len() > 1
     }
-
     pub fn play_round(&mut self) {
         // Trigger new Draws
         for participant in self.participants.iter_mut() {
@@ -71,12 +70,12 @@ impl Dealer {
                 }
             }
             memory.push(participant_draw);
-            println!("{}", memory.len())
         }
         for liar in liars.iter() {
             self.participants.remove(*liar);
         }
         self.round += 1;
+        println!("Round {} complete", self.round);
     }
 }
 

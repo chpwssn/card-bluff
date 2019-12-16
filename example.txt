@@ -1,0 +1,1787 @@
+Participant A Player: Current Play Draw: H8, Lie: D2, Lying: false
+Participant B Player: Current Play Draw: SQ, Lie: CQ, Lying: false
+Participant C Player: Current Play Draw: D5, Lie: H4, Lying: false
+Participant D Player: Current Play Draw: H0, Lie: S9, Lying: false
+Round 1 complete
+Participant A Player: Current Play Draw: H7, Lie: CJ, Lying: false
+Participant B Player: Current Play Draw: **, Lie: H0, Lying: true
+Participant C Player: Current Play Draw: D3, Lie: SK, Lying: false
+Participant D Player: Current Play Draw: *7, Lie: CA, Lying: true
+Round 2 complete
+Participant A Player: Current Play Draw: *0, Lie: HQ, Lying: true
+Participant B Player: Current Play Draw: H3, Lie: D8, Lying: false
+Participant C Player: Current Play Draw: *4, Lie: C6, Lying: true
+Participant D Player: Current Play Draw: DA, Lie: SK, Lying: false
+Round 3 complete
+Participant A Player: Current Play Draw: D*, Lie: S3, Lying: true
+Participant B Player: Current Play Draw: HK, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: HJ, Lying: false
+Participant D Player: Current Play Draw: D9, Lie: C4, Lying: false
+Round 4 complete
+Participant A Player: Current Play Draw: D7, Lie: C3, Lying: false
+Participant B Player: Current Play Draw: *7, Lie: SK, Lying: true
+Participant C Player: Current Play Draw: HJ, Lie: H7, Lying: false
+Participant D Player: Current Play Draw: H3, Lie: H6, Lying: false
+Round 5 complete
+Participant A Player: Current Play Draw: C9, Lie: CK, Lying: false
+Participant B Player: Current Play Draw: *6, Lie: CQ, Lying: true
+Participant C Player: Current Play Draw: H4, Lie: SA, Lying: false
+Participant D Player: Current Play Draw: C6, Lie: CK, Lying: false
+Round 6 complete
+Participant A Player: Current Play Draw: *4, Lie: C6, Lying: true
+Participant B Player: Current Play Draw: SQ, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: *7, Lie: HJ, Lying: true
+Participant D Player: Current Play Draw: HA, Lie: S7, Lying: false
+Round 7 complete
+Participant A Player: Current Play Draw: D3, Lie: HQ, Lying: false
+Participant B Player: Current Play Draw: *2, Lie: H7, Lying: true
+Participant C Player: Current Play Draw: HJ, Lie: S8, Lying: false
+Participant D Player: Current Play Draw: C3, Lie: H7, Lying: false
+Round 8 complete
+Participant A Player: Current Play Draw: *4, Lie: SJ, Lying: true
+Participant B Player: Current Play Draw: S0, Lie: H8, Lying: false
+Participant C Player: Current Play Draw: C4, Lie: H7, Lying: false
+Participant D Player: Current Play Draw: HK, Lie: HQ, Lying: false
+Round 9 complete
+Participant A Player: Current Play Draw: D5, Lie: H9, Lying: false
+Participant B Player: Current Play Draw: *J, Lie: DJ, Lying: true
+Participant C Player: Current Play Draw: DK, Lie: DJ, Lying: false
+Participant D Player: Current Play Draw: SK, Lie: HK, Lying: false
+Round 10 complete
+Participant A Player: Current Play Draw: H5, Lie: SA, Lying: false
+Participant B Player: Current Play Draw: *J, Lie: SJ, Lying: true
+Participant C Player: Current Play Draw: HQ, Lie: D0, Lying: false
+Participant D Player: Current Play Draw: C9, Lie: D7, Lying: false
+Round 11 complete
+Participant A Player: Current Play Draw: CJ, Lie: SQ, Lying: false
+Participant B Player: Current Play Draw: S6, Lie: H8, Lying: false
+Participant C Player: Current Play Draw: SJ, Lie: D5, Lying: false
+Participant D Player: Current Play Draw: SK, Lie: S0, Lying: false
+Round 12 complete
+Participant A Player: Current Play Draw: D2, Lie: C4, Lying: false
+Participant B Player: Current Play Draw: SA, Lie: D4, Lying: false
+Participant C Player: Current Play Draw: D4, Lie: H4, Lying: false
+Participant D Player: Current Play Draw: D0, Lie: D5, Lying: false
+Round 13 complete
+Participant A Player: Current Play Draw: H6, Lie: CA, Lying: false
+Participant B Player: Current Play Draw: S3, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: D9, Lie: SJ, Lying: false
+Participant D Player: Current Play Draw: S0, Lie: S3, Lying: false
+Round 14 complete
+Participant A Player: Current Play Draw: H7, Lie: DJ, Lying: false
+Participant B Player: Current Play Draw: DA, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: *7, Lie: S6, Lying: true
+Participant D Player: Current Play Draw: CQ, Lie: S4, Lying: false
+Round 15 complete
+Participant A Player: Current Play Draw: C5, Lie: S7, Lying: false
+Participant B Player: Current Play Draw: H3, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: HK, Lie: SK, Lying: false
+Participant D Player: Current Play Draw: D6, Lie: H3, Lying: false
+Round 16 complete
+Participant A Player: Current Play Draw: CK, Lie: CQ, Lying: false
+Participant B Player: Current Play Draw: C*, Lie: SK, Lying: true
+Participant C Player: Current Play Draw: *K, Lie: HA, Lying: true
+Participant D Player: Current Play Draw: S8, Lie: H3, Lying: false
+Round 17 complete
+Participant A Player: Current Play Draw: H*, Lie: H4, Lying: true
+Participant B Player: Current Play Draw: *0, Lie: C7, Lying: true
+Participant C Player: Current Play Draw: S3, Lie: H9, Lying: false
+Participant D Player: Current Play Draw: D*, Lie: C8, Lying: true
+Round 18 complete
+Participant A Player: Current Play Draw: CJ, Lie: D6, Lying: false
+Participant B Player: Current Play Draw: DQ, Lie: H5, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: H0, Lying: false
+Participant D Player: Current Play Draw: *A, Lie: S0, Lying: true
+Round 19 complete
+Participant A Player: Current Play Draw: S2, Lie: H0, Lying: false
+Participant B Player: Current Play Draw: D4, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: H0, Lie: S0, Lying: false
+Participant D Player: Current Play Draw: C5, Lie: DQ, Lying: false
+Round 20 complete
+Participant A Player: Current Play Draw: D*, Lie: C7, Lying: true
+Participant B Player: Current Play Draw: H7, Lie: HA, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: CK, Lying: true
+Participant D Player: Current Play Draw: *4, Lie: CK, Lying: true
+Found a duplicate!
+(false) challenge bullshit, expected response bullshitCK, response bullshit*4
+Liar! Participant D will be removed!
+Round 21 complete
+Participant A Player: Current Play Draw: *7, Lie: S3, Lying: true
+Participant B Player: Current Play Draw: SK, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: D5, Lie: CQ, Lying: false
+Round 22 complete
+Participant A Player: Current Play Draw: S*, Lie: DK, Lying: true
+Participant B Player: Current Play Draw: HA, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: SJ, Lie: S7, Lying: false
+Round 23 complete
+Participant A Player: Current Play Draw: DJ, Lie: C4, Lying: false
+Participant B Player: Current Play Draw: S*, Lie: H7, Lying: true
+Participant C Player: Current Play Draw: **, Lie: D2, Lying: true
+Round 24 complete
+Participant A Player: Current Play Draw: D8, Lie: D5, Lying: false
+Participant B Player: Current Play Draw: D0, Lie: DA, Lying: false
+Participant C Player: Current Play Draw: SJ, Lie: H3, Lying: false
+Round 25 complete
+Participant A Player: Current Play Draw: *J, Lie: C9, Lying: true
+Participant B Player: Current Play Draw: C*, Lie: S2, Lying: true
+Participant C Player: Current Play Draw: *0, Lie: S7, Lying: true
+Round 26 complete
+Participant A Player: Current Play Draw: C4, Lie: S2, Lying: false
+Participant B Player: Current Play Draw: S6, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: C6, Lying: true
+Round 27 complete
+Participant A Player: Current Play Draw: **, Lie: S0, Lying: true
+Participant B Player: Current Play Draw: H3, Lie: C4, Lying: false
+Participant C Player: Current Play Draw: *0, Lie: CK, Lying: true
+Round 28 complete
+Participant A Player: Current Play Draw: H*, Lie: H7, Lying: true
+Participant B Player: Current Play Draw: S2, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: D8, Lie: D8, Lying: false
+Round 29 complete
+Participant A Player: Current Play Draw: D2, Lie: S8, Lying: false
+Participant B Player: Current Play Draw: S8, Lie: S2, Lying: false
+Participant C Player: Current Play Draw: D3, Lie: SK, Lying: false
+Round 30 complete
+Participant A Player: Current Play Draw: *A, Lie: C6, Lying: true
+Participant B Player: Current Play Draw: H3, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: HA, Lie: C4, Lying: false
+Round 31 complete
+Participant A Player: Current Play Draw: S2, Lie: H5, Lying: false
+Participant B Player: Current Play Draw: DQ, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: C9, Lie: S3, Lying: false
+Round 32 complete
+Participant A Player: Current Play Draw: DJ, Lie: D9, Lying: false
+Participant B Player: Current Play Draw: S8, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: CJ, Lying: true
+Round 33 complete
+Participant A Player: Current Play Draw: *3, Lie: S9, Lying: true
+Participant B Player: Current Play Draw: H3, Lie: C2, Lying: false
+Participant C Player: Current Play Draw: *0, Lie: D5, Lying: true
+Round 34 complete
+Participant A Player: Current Play Draw: H7, Lie: H5, Lying: false
+Participant B Player: Current Play Draw: S0, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: *J, Lie: DQ, Lying: true
+Round 35 complete
+Participant A Player: Current Play Draw: CJ, Lie: DA, Lying: false
+Participant B Player: Current Play Draw: C5, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: C8, Lie: C2, Lying: false
+Round 36 complete
+Participant A Player: Current Play Draw: H8, Lie: D0, Lying: false
+Participant B Player: Current Play Draw: *8, Lie: S8, Lying: true
+Participant C Player: Current Play Draw: C5, Lie: S7, Lying: false
+Round 37 complete
+Participant A Player: Current Play Draw: SQ, Lie: CQ, Lying: false
+Participant B Player: Current Play Draw: *8, Lie: DJ, Lying: true
+Participant C Player: Current Play Draw: C4, Lie: C8, Lying: false
+Round 38 complete
+Participant A Player: Current Play Draw: HQ, Lie: H5, Lying: false
+Participant B Player: Current Play Draw: DJ, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: S0, Lie: S5, Lying: false
+Round 39 complete
+Participant A Player: Current Play Draw: CA, Lie: C5, Lying: false
+Participant B Player: Current Play Draw: SQ, Lie: HJ, Lying: false
+Participant C Player: Current Play Draw: C4, Lie: D8, Lying: false
+Round 40 complete
+Participant A Player: Current Play Draw: DQ, Lie: H9, Lying: false
+Participant B Player: Current Play Draw: H0, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: D4, Lie: S4, Lying: false
+Round 41 complete
+Participant A Player: Current Play Draw: D9, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: DQ, Lie: C8, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: D6, Lying: true
+Round 42 complete
+Participant A Player: Current Play Draw: S6, Lie: HA, Lying: false
+Participant B Player: Current Play Draw: *3, Lie: D3, Lying: true
+Participant C Player: Current Play Draw: S2, Lie: S2, Lying: false
+Round 43 complete
+Participant A Player: Current Play Draw: H6, Lie: S9, Lying: false
+Participant B Player: Current Play Draw: H8, Lie: S2, Lying: false
+Participant C Player: Current Play Draw: S2, Lie: D2, Lying: false
+Round 44 complete
+Participant A Player: Current Play Draw: *5, Lie: CQ, Lying: true
+Participant B Player: Current Play Draw: *3, Lie: C2, Lying: true
+Participant C Player: Current Play Draw: D2, Lie: S6, Lying: false
+Round 45 complete
+Participant A Player: Current Play Draw: C*, Lie: C8, Lying: true
+Participant B Player: Current Play Draw: CA, Lie: CQ, Lying: false
+Participant C Player: Current Play Draw: C8, Lie: C4, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitC8, response bullshitC8
+Round 46 complete
+Participant A Player: Current Play Draw: D9, Lie: HA, Lying: false
+Participant B Player: Current Play Draw: HA, Lie: H3, Lying: false
+Participant C Player: Current Play Draw: H*, Lie: H9, Lying: true
+Round 47 complete
+Participant A Player: Current Play Draw: S2, Lie: C5, Lying: false
+Participant B Player: Current Play Draw: D9, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: *Q, Lie: D6, Lying: true
+Round 48 complete
+Participant A Player: Current Play Draw: D4, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: C3, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: C*, Lie: C8, Lying: true
+Round 49 complete
+Participant A Player: Current Play Draw: C6, Lie: CA, Lying: false
+Participant B Player: Current Play Draw: H5, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: D8, Lie: S0, Lying: false
+Round 50 complete
+Participant A Player: Current Play Draw: C3, Lie: CA, Lying: false
+Participant B Player: Current Play Draw: S8, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: S3, Lying: false
+Round 51 complete
+Participant A Player: Current Play Draw: H0, Lie: SK, Lying: false
+Participant B Player: Current Play Draw: *5, Lie: S0, Lying: true
+Participant C Player: Current Play Draw: SQ, Lie: SA, Lying: false
+Round 52 complete
+Participant A Player: Current Play Draw: S4, Lie: D4, Lying: false
+Participant B Player: Current Play Draw: C9, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: H9, Lie: D7, Lying: false
+Round 53 complete
+Participant A Player: Current Play Draw: S8, Lie: H2, Lying: false
+Participant B Player: Current Play Draw: DA, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: *7, Lie: D5, Lying: true
+Round 54 complete
+Participant A Player: Current Play Draw: D5, Lie: S9, Lying: false
+Participant B Player: Current Play Draw: CQ, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: C4, Lie: C0, Lying: false
+Round 55 complete
+Participant A Player: Current Play Draw: SA, Lie: DK, Lying: false
+Participant B Player: Current Play Draw: *K, Lie: DK, Lying: true
+Participant C Player: Current Play Draw: *5, Lie: S4, Lying: true
+Round 56 complete
+Participant A Player: Current Play Draw: C7, Lie: S9, Lying: false
+Participant B Player: Current Play Draw: H2, Lie: D4, Lying: false
+Participant C Player: Current Play Draw: *7, Lie: DA, Lying: true
+Round 57 complete
+Participant A Player: Current Play Draw: H2, Lie: HA, Lying: false
+Participant B Player: Current Play Draw: C8, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: C6, Lying: false
+Round 58 complete
+Participant A Player: Current Play Draw: *8, Lie: H7, Lying: true
+Participant B Player: Current Play Draw: D*, Lie: H9, Lying: true
+Participant C Player: Current Play Draw: CK, Lie: C7, Lying: false
+Round 59 complete
+Participant A Player: Current Play Draw: S8, Lie: SA, Lying: false
+Participant B Player: Current Play Draw: S7, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: HK, Lie: D7, Lying: false
+Round 60 complete
+Participant A Player: Current Play Draw: *5, Lie: C7, Lying: true
+Participant B Player: Current Play Draw: H3, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: D5, Lie: D4, Lying: false
+Round 61 complete
+Participant A Player: Current Play Draw: S*, Lie: D4, Lying: true
+Participant B Player: Current Play Draw: C8, Lie: HJ, Lying: false
+Participant C Player: Current Play Draw: C8, Lie: D5, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitC8, response bullshitC8
+Round 62 complete
+Participant A Player: Current Play Draw: *4, Lie: H0, Lying: true
+Participant B Player: Current Play Draw: H3, Lie: C2, Lying: false
+Participant C Player: Current Play Draw: H6, Lie: S4, Lying: false
+Round 63 complete
+Participant A Player: Current Play Draw: S0, Lie: C5, Lying: false
+Participant B Player: Current Play Draw: S7, Lie: D6, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: C3, Lying: false
+Round 64 complete
+Participant A Player: Current Play Draw: SQ, Lie: C3, Lying: false
+Participant B Player: Current Play Draw: *9, Lie: H9, Lying: true
+Participant C Player: Current Play Draw: C5, Lie: CQ, Lying: false
+Round 65 complete
+Participant A Player: Current Play Draw: CK, Lie: H8, Lying: false
+Participant B Player: Current Play Draw: SJ, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: C9, Lie: H0, Lying: false
+Round 66 complete
+Participant A Player: Current Play Draw: H2, Lie: C8, Lying: false
+Participant B Player: Current Play Draw: CA, Lie: CQ, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: H7, Lying: true
+Round 67 complete
+Participant A Player: Current Play Draw: C5, Lie: HK, Lying: false
+Participant B Player: Current Play Draw: C9, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: C2, Lie: SA, Lying: false
+Round 68 complete
+Participant A Player: Current Play Draw: H4, Lie: D6, Lying: false
+Participant B Player: Current Play Draw: S7, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: S3, Lie: CA, Lying: false
+Round 69 complete
+Participant A Player: Current Play Draw: D6, Lie: S2, Lying: false
+Participant B Player: Current Play Draw: H*, Lie: H3, Lying: true
+Participant C Player: Current Play Draw: D2, Lie: C6, Lying: false
+Round 70 complete
+Participant A Player: Current Play Draw: C0, Lie: HK, Lying: false
+Participant B Player: Current Play Draw: S8, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: *J, Lie: DJ, Lying: true
+Round 71 complete
+Participant A Player: Current Play Draw: *Q, Lie: C3, Lying: true
+Participant B Player: Current Play Draw: H0, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: C2, Lie: C4, Lying: false
+Round 72 complete
+Participant A Player: Current Play Draw: D2, Lie: S4, Lying: false
+Participant B Player: Current Play Draw: *0, Lie: HJ, Lying: true
+Participant C Player: Current Play Draw: SQ, Lie: SQ, Lying: false
+Round 73 complete
+Participant A Player: Current Play Draw: *5, Lie: CA, Lying: true
+Participant B Player: Current Play Draw: S2, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: C8, Lie: D2, Lying: false
+Round 74 complete
+Participant A Player: Current Play Draw: C2, Lie: C5, Lying: false
+Participant B Player: Current Play Draw: H9, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: SQ, Lying: false
+Round 75 complete
+Participant A Player: Current Play Draw: *4, Lie: D0, Lying: true
+Participant B Player: Current Play Draw: *A, Lie: C2, Lying: true
+Participant C Player: Current Play Draw: C0, Lie: SK, Lying: false
+Round 76 complete
+Participant A Player: Current Play Draw: *7, Lie: SJ, Lying: true
+Participant B Player: Current Play Draw: CA, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: C9, Lie: DJ, Lying: false
+Round 77 complete
+Participant A Player: Current Play Draw: S2, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: C4, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: CQ, Lie: C5, Lying: false
+Round 78 complete
+Participant A Player: Current Play Draw: HK, Lie: C8, Lying: false
+Participant B Player: Current Play Draw: D7, Lie: D9, Lying: false
+Participant C Player: Current Play Draw: H0, Lie: CJ, Lying: false
+Round 79 complete
+Participant A Player: Current Play Draw: *8, Lie: DQ, Lying: true
+Participant B Player: Current Play Draw: *A, Lie: S5, Lying: true
+Participant C Player: Current Play Draw: SQ, Lie: DA, Lying: false
+Round 80 complete
+Participant A Player: Current Play Draw: DQ, Lie: D9, Lying: false
+Participant B Player: Current Play Draw: CK, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: H6, Lying: true
+Round 81 complete
+Participant A Player: Current Play Draw: S0, Lie: H8, Lying: false
+Participant B Player: Current Play Draw: DJ, Lie: H5, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: HQ, Lying: false
+Round 82 complete
+Participant A Player: Current Play Draw: *A, Lie: H4, Lying: true
+Participant B Player: Current Play Draw: S*, Lie: SK, Lying: true
+Participant C Player: Current Play Draw: S0, Lie: D5, Lying: false
+Round 83 complete
+Participant A Player: Current Play Draw: CQ, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: H9, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: C6, Lie: HQ, Lying: false
+Round 84 complete
+Participant A Player: Current Play Draw: *9, Lie: D3, Lying: true
+Participant B Player: Current Play Draw: *3, Lie: D5, Lying: true
+Participant C Player: Current Play Draw: DK, Lie: H2, Lying: false
+Round 85 complete
+Participant A Player: Current Play Draw: C3, Lie: D4, Lying: false
+Participant B Player: Current Play Draw: CQ, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: D8, Lying: true
+Round 86 complete
+Participant A Player: Current Play Draw: S3, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: HA, Lie: HK, Lying: false
+Participant C Player: Current Play Draw: *Q, Lie: S6, Lying: true
+Round 87 complete
+Participant A Player: Current Play Draw: D0, Lie: SJ, Lying: false
+Participant B Player: Current Play Draw: C0, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: DK, Lie: S4, Lying: false
+Round 88 complete
+Participant A Player: Current Play Draw: D7, Lie: D3, Lying: false
+Participant B Player: Current Play Draw: D7, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: D8, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitD7, response bullshitD7
+Round 89 complete
+Participant A Player: Current Play Draw: H4, Lie: H4, Lying: false
+Participant B Player: Current Play Draw: H2, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: SA, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitH4, response bullshitH4
+Round 90 complete
+Participant A Player: Current Play Draw: C3, Lie: S6, Lying: false
+Participant B Player: Current Play Draw: CJ, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: DQ, Lying: true
+Round 91 complete
+Participant A Player: Current Play Draw: C3, Lie: SK, Lying: false
+Participant B Player: Current Play Draw: H2, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: H9, Lie: CJ, Lying: false
+Round 92 complete
+Participant A Player: Current Play Draw: H0, Lie: C7, Lying: false
+Participant B Player: Current Play Draw: HK, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: H2, Lie: DJ, Lying: false
+Round 93 complete
+Participant A Player: Current Play Draw: SK, Lie: C5, Lying: false
+Participant B Player: Current Play Draw: C0, Lie: HJ, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: H9, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitSK, response bullshitSK
+Round 94 complete
+Participant A Player: Current Play Draw: C4, Lie: DK, Lying: false
+Participant B Player: Current Play Draw: S7, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: S2, Lie: HK, Lying: false
+Round 95 complete
+Participant A Player: Current Play Draw: D3, Lie: D0, Lying: false
+Participant B Player: Current Play Draw: D9, Lie: H8, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: S8, Lying: false
+Round 96 complete
+Participant A Player: Current Play Draw: D*, Lie: CJ, Lying: true
+Participant B Player: Current Play Draw: H4, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: H6, Lie: CK, Lying: false
+Round 97 complete
+Participant A Player: Current Play Draw: C4, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: CK, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: DK, Lying: false
+Round 98 complete
+Participant A Player: Current Play Draw: CJ, Lie: CK, Lying: false
+Participant B Player: Current Play Draw: HJ, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: H2, Lie: C9, Lying: false
+Round 99 complete
+Participant A Player: Current Play Draw: CA, Lie: D5, Lying: false
+Participant B Player: Current Play Draw: H9, Lie: SA, Lying: false
+Participant C Player: Current Play Draw: C*, Lie: D8, Lying: true
+Round 100 complete
+Participant A Player: Current Play Draw: HK, Lie: H2, Lying: false
+Participant B Player: Current Play Draw: H8, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: S0, Lie: D6, Lying: false
+Round 101 complete
+Participant A Player: Current Play Draw: *A, Lie: S7, Lying: true
+Participant B Player: Current Play Draw: *K, Lie: S5, Lying: true
+Participant C Player: Current Play Draw: H9, Lie: SK, Lying: false
+Round 102 complete
+Participant A Player: Current Play Draw: S2, Lie: H5, Lying: false
+Participant B Player: Current Play Draw: HJ, Lie: C7, Lying: false
+Participant C Player: Current Play Draw: C5, Lie: SA, Lying: false
+Round 103 complete
+Participant A Player: Current Play Draw: C7, Lie: C5, Lying: false
+Participant B Player: Current Play Draw: H4, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: H5, Lie: CQ, Lying: false
+Round 104 complete
+Participant A Player: Current Play Draw: H5, Lie: H7, Lying: false
+Participant B Player: Current Play Draw: *9, Lie: H8, Lying: true
+Participant C Player: Current Play Draw: D6, Lie: D0, Lying: false
+Round 105 complete
+Participant A Player: Current Play Draw: DA, Lie: DA, Lying: false
+Participant B Player: Current Play Draw: H7, Lie: H0, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: H8, Lying: true
+Round 106 complete
+Participant A Player: Current Play Draw: *0, Lie: DQ, Lying: true
+Participant B Player: Current Play Draw: HJ, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: SA, Lie: DK, Lying: false
+Round 107 complete
+Participant A Player: Current Play Draw: S6, Lie: H3, Lying: false
+Participant B Player: Current Play Draw: *K, Lie: CK, Lying: true
+Participant C Player: Current Play Draw: D8, Lie: SK, Lying: false
+Round 108 complete
+Participant A Player: Current Play Draw: C*, Lie: SK, Lying: true
+Participant B Player: Current Play Draw: DA, Lie: C8, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: D6, Lying: false
+Round 109 complete
+Participant A Player: Current Play Draw: *5, Lie: C0, Lying: true
+Participant B Player: Current Play Draw: *Q, Lie: S0, Lying: true
+Participant C Player: Current Play Draw: C0, Lie: C6, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitC0, response bullshitC0
+Round 110 complete
+Participant A Player: Current Play Draw: S5, Lie: DA, Lying: false
+Participant B Player: Current Play Draw: D7, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: *Q, Lie: HQ, Lying: true
+Round 111 complete
+Participant A Player: Current Play Draw: *4, Lie: H8, Lying: true
+Participant B Player: Current Play Draw: S3, Lie: H5, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: C4, Lying: false
+Round 112 complete
+Participant A Player: Current Play Draw: *2, Lie: H8, Lying: true
+Participant B Player: Current Play Draw: H2, Lie: C7, Lying: false
+Participant C Player: Current Play Draw: SA, Lie: HQ, Lying: false
+Round 113 complete
+Participant A Player: Current Play Draw: *A, Lie: S6, Lying: true
+Participant B Player: Current Play Draw: DJ, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: D7, Lie: H2, Lying: false
+Round 114 complete
+Participant A Player: Current Play Draw: C9, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: D8, Lie: D0, Lying: false
+Participant C Player: Current Play Draw: D4, Lie: HK, Lying: false
+Round 115 complete
+Participant A Player: Current Play Draw: C0, Lie: H0, Lying: false
+Participant B Player: Current Play Draw: S8, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: S7, Lying: false
+Round 116 complete
+Participant A Player: Current Play Draw: HK, Lie: C3, Lying: false
+Participant B Player: Current Play Draw: H0, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: C0, Lie: H0, Lying: false
+Round 117 complete
+Participant A Player: Current Play Draw: *9, Lie: C3, Lying: true
+Participant B Player: Current Play Draw: DQ, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: H0, Lie: S8, Lying: false
+Round 118 complete
+Participant A Player: Current Play Draw: C9, Lie: D7, Lying: false
+Participant B Player: Current Play Draw: *0, Lie: DQ, Lying: true
+Participant C Player: Current Play Draw: C3, Lie: C0, Lying: false
+Round 119 complete
+Participant A Player: Current Play Draw: SK, Lie: S9, Lying: false
+Participant B Player: Current Play Draw: DA, Lie: CJ, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: HK, Lying: false
+Round 120 complete
+Participant A Player: Current Play Draw: D6, Lie: S2, Lying: false
+Participant B Player: Current Play Draw: S7, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: *2, Lie: DQ, Lying: true
+Round 121 complete
+Participant A Player: Current Play Draw: HQ, Lie: S3, Lying: false
+Participant B Player: Current Play Draw: S5, Lie: H0, Lying: false
+Participant C Player: Current Play Draw: H*, Lie: D9, Lying: true
+Round 122 complete
+Participant A Player: Current Play Draw: H2, Lie: D4, Lying: false
+Participant B Player: Current Play Draw: CJ, Lie: C2, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: S7, Lying: true
+Round 123 complete
+Participant A Player: Current Play Draw: HK, Lie: S5, Lying: false
+Participant B Player: Current Play Draw: HQ, Lie: CQ, Lying: false
+Participant C Player: Current Play Draw: CJ, Lie: D0, Lying: false
+Round 124 complete
+Participant A Player: Current Play Draw: HJ, Lie: C8, Lying: false
+Participant B Player: Current Play Draw: H6, Lie: CK, Lying: false
+Participant C Player: Current Play Draw: S6, Lie: C4, Lying: false
+Round 125 complete
+Participant A Player: Current Play Draw: HK, Lie: CJ, Lying: false
+Participant B Player: Current Play Draw: *Q, Lie: CQ, Lying: true
+Participant C Player: Current Play Draw: H4, Lie: C9, Lying: false
+Round 126 complete
+Participant A Player: Current Play Draw: DQ, Lie: D4, Lying: false
+Participant B Player: Current Play Draw: *3, Lie: S7, Lying: true
+Participant C Player: Current Play Draw: SA, Lie: H0, Lying: false
+Round 127 complete
+Participant A Player: Current Play Draw: D4, Lie: SJ, Lying: false
+Participant B Player: Current Play Draw: S0, Lie: D8, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: S7, Lying: true
+Round 128 complete
+Participant A Player: Current Play Draw: CK, Lie: SQ, Lying: false
+Participant B Player: Current Play Draw: CJ, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: C4, Lie: H3, Lying: false
+Round 129 complete
+Participant A Player: Current Play Draw: C0, Lie: CK, Lying: false
+Participant B Player: Current Play Draw: S4, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: SA, Lie: H8, Lying: false
+Round 130 complete
+Participant A Player: Current Play Draw: H7, Lie: H7, Lying: false
+Participant B Player: Current Play Draw: D6, Lie: CK, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: S2, Lying: true
+Round 131 complete
+Participant A Player: Current Play Draw: D2, Lie: H5, Lying: false
+Participant B Player: Current Play Draw: **, Lie: S2, Lying: true
+Participant C Player: Current Play Draw: D4, Lie: H0, Lying: false
+Round 132 complete
+Participant A Player: Current Play Draw: S7, Lie: H8, Lying: false
+Participant B Player: Current Play Draw: H6, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: DQ, Lie: SQ, Lying: false
+Round 133 complete
+Participant A Player: Current Play Draw: D0, Lie: SK, Lying: false
+Participant B Player: Current Play Draw: SQ, Lie: CK, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: D4, Lying: false
+Round 134 complete
+Participant A Player: Current Play Draw: DK, Lie: C3, Lying: false
+Participant B Player: Current Play Draw: *5, Lie: S4, Lying: true
+Participant C Player: Current Play Draw: C3, Lie: S3, Lying: false
+Round 135 complete
+Participant A Player: Current Play Draw: H4, Lie: CQ, Lying: false
+Participant B Player: Current Play Draw: C6, Lie: S0, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: C2, Lying: false
+Round 136 complete
+Participant A Player: Current Play Draw: H3, Lie: D5, Lying: false
+Participant B Player: Current Play Draw: H9, Lie: C8, Lying: false
+Participant C Player: Current Play Draw: H6, Lie: H2, Lying: false
+Round 137 complete
+Participant A Player: Current Play Draw: SQ, Lie: C5, Lying: false
+Participant B Player: Current Play Draw: C2, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: S0, Lie: H0, Lying: false
+Round 138 complete
+Participant A Player: Current Play Draw: *Q, Lie: S9, Lying: true
+Participant B Player: Current Play Draw: SA, Lie: HA, Lying: false
+Participant C Player: Current Play Draw: S5, Lie: C3, Lying: false
+Round 139 complete
+Participant A Player: Current Play Draw: DQ, Lie: CA, Lying: false
+Participant B Player: Current Play Draw: H3, Lie: D2, Lying: false
+Participant C Player: Current Play Draw: C3, Lie: D9, Lying: false
+Round 140 complete
+Participant A Player: Current Play Draw: S3, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: C7, Lie: D0, Lying: false
+Participant C Player: Current Play Draw: *4, Lie: SJ, Lying: true
+Round 141 complete
+Participant A Player: Current Play Draw: SQ, Lie: CA, Lying: false
+Participant B Player: Current Play Draw: CK, Lie: D9, Lying: false
+Participant C Player: Current Play Draw: S8, Lie: S7, Lying: false
+Round 142 complete
+Participant A Player: Current Play Draw: H3, Lie: D9, Lying: false
+Participant B Player: Current Play Draw: SA, Lie: CJ, Lying: false
+Participant C Player: Current Play Draw: H*, Lie: CK, Lying: true
+Round 143 complete
+Participant A Player: Current Play Draw: *5, Lie: H7, Lying: true
+Participant B Player: Current Play Draw: S5, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: D2, Lie: DQ, Lying: false
+Round 144 complete
+Participant A Player: Current Play Draw: S4, Lie: S3, Lying: false
+Participant B Player: Current Play Draw: D*, Lie: C0, Lying: true
+Participant C Player: Current Play Draw: D5, Lie: H0, Lying: false
+Round 145 complete
+Participant A Player: Current Play Draw: D7, Lie: HQ, Lying: false
+Participant B Player: Current Play Draw: H3, Lie: D9, Lying: false
+Participant C Player: Current Play Draw: C9, Lie: SJ, Lying: false
+Round 146 complete
+Participant A Player: Current Play Draw: D9, Lie: D9, Lying: false
+Participant B Player: Current Play Draw: *7, Lie: HJ, Lying: true
+Participant C Player: Current Play Draw: S0, Lie: HQ, Lying: false
+Round 147 complete
+Participant A Player: Current Play Draw: C0, Lie: C9, Lying: false
+Participant B Player: Current Play Draw: D*, Lie: H7, Lying: true
+Participant C Player: Current Play Draw: D*, Lie: CJ, Lying: true
+Round 148 complete
+Participant A Player: Current Play Draw: CQ, Lie: HA, Lying: false
+Participant B Player: Current Play Draw: D5, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: C3, Lie: H3, Lying: false
+Round 149 complete
+Participant A Player: Current Play Draw: SA, Lie: D8, Lying: false
+Participant B Player: Current Play Draw: D6, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: S*, Lie: C4, Lying: true
+Round 150 complete
+Participant A Player: Current Play Draw: DQ, Lie: C8, Lying: false
+Participant B Player: Current Play Draw: S6, Lie: CQ, Lying: false
+Participant C Player: Current Play Draw: *Q, Lie: H7, Lying: true
+Round 151 complete
+Participant A Player: Current Play Draw: D9, Lie: SQ, Lying: false
+Participant B Player: Current Play Draw: *K, Lie: C6, Lying: true
+Participant C Player: Current Play Draw: *8, Lie: HK, Lying: true
+Round 152 complete
+Participant A Player: Current Play Draw: C3, Lie: HA, Lying: false
+Participant B Player: Current Play Draw: C0, Lie: SK, Lying: false
+Participant C Player: Current Play Draw: H6, Lie: H3, Lying: false
+Round 153 complete
+Participant A Player: Current Play Draw: H*, Lie: S3, Lying: true
+Participant B Player: Current Play Draw: DA, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: HK, Lie: CJ, Lying: false
+Round 154 complete
+Participant A Player: Current Play Draw: HK, Lie: D0, Lying: false
+Participant B Player: Current Play Draw: D7, Lie: D9, Lying: false
+Participant C Player: Current Play Draw: CJ, Lie: CA, Lying: false
+Round 155 complete
+Participant A Player: Current Play Draw: *J, Lie: S3, Lying: true
+Participant B Player: Current Play Draw: C9, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: S6, Lie: C6, Lying: false
+Round 156 complete
+Participant A Player: Current Play Draw: CJ, Lie: S3, Lying: false
+Participant B Player: Current Play Draw: HJ, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: DK, Lie: HA, Lying: false
+Round 157 complete
+Participant A Player: Current Play Draw: H9, Lie: S3, Lying: false
+Participant B Player: Current Play Draw: *3, Lie: S0, Lying: true
+Participant C Player: Current Play Draw: S6, Lie: CA, Lying: false
+Round 158 complete
+Participant A Player: Current Play Draw: *5, Lie: CJ, Lying: true
+Participant B Player: Current Play Draw: *5, Lie: SQ, Lying: true
+Participant C Player: Current Play Draw: H8, Lie: H7, Lying: false
+Round 159 complete
+Participant A Player: Current Play Draw: **, Lie: DQ, Lying: true
+Participant B Player: Current Play Draw: *4, Lie: C8, Lying: true
+Participant C Player: Current Play Draw: DQ, Lie: DQ, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitDQ, response bullshitDQ
+Round 160 complete
+Participant A Player: Current Play Draw: SJ, Lie: C0, Lying: false
+Participant B Player: Current Play Draw: *3, Lie: H7, Lying: true
+Participant C Player: Current Play Draw: H7, Lie: DA, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitH7, response bullshitH7
+Round 161 complete
+Participant A Player: Current Play Draw: S3, Lie: H0, Lying: false
+Participant B Player: Current Play Draw: H2, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: *3, Lie: HA, Lying: true
+Round 162 complete
+Participant A Player: Current Play Draw: *5, Lie: H9, Lying: true
+Participant B Player: Current Play Draw: *Q, Lie: H8, Lying: true
+Participant C Player: Current Play Draw: S9, Lie: D6, Lying: false
+Round 163 complete
+Participant A Player: Current Play Draw: *0, Lie: H9, Lying: true
+Participant B Player: Current Play Draw: H2, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: D8, Lie: S8, Lying: false
+Round 164 complete
+Participant A Player: Current Play Draw: C4, Lie: H0, Lying: false
+Participant B Player: Current Play Draw: S7, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: D8, Lying: true
+Round 165 complete
+Participant A Player: Current Play Draw: CQ, Lie: DQ, Lying: false
+Participant B Player: Current Play Draw: *3, Lie: SQ, Lying: true
+Participant C Player: Current Play Draw: *J, Lie: C7, Lying: true
+Round 166 complete
+Participant A Player: Current Play Draw: HK, Lie: C0, Lying: false
+Participant B Player: Current Play Draw: D2, Lie: H3, Lying: false
+Participant C Player: Current Play Draw: D3, Lie: D2, Lying: false
+Round 167 complete
+Participant A Player: Current Play Draw: C*, Lie: C3, Lying: true
+Participant B Player: Current Play Draw: C5, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: C0, Lie: S2, Lying: false
+Round 168 complete
+Participant A Player: Current Play Draw: H9, Lie: S4, Lying: false
+Participant B Player: Current Play Draw: S8, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: CK, Lie: D8, Lying: false
+Round 169 complete
+Participant A Player: Current Play Draw: HJ, Lie: H9, Lying: false
+Participant B Player: Current Play Draw: *2, Lie: S8, Lying: true
+Participant C Player: Current Play Draw: D7, Lie: C5, Lying: false
+Round 170 complete
+Participant A Player: Current Play Draw: S4, Lie: D8, Lying: false
+Participant B Player: Current Play Draw: *0, Lie: C9, Lying: true
+Participant C Player: Current Play Draw: HQ, Lie: H4, Lying: false
+Round 171 complete
+Participant A Player: Current Play Draw: C6, Lie: H6, Lying: false
+Participant B Player: Current Play Draw: D7, Lie: DA, Lying: false
+Participant C Player: Current Play Draw: C4, Lie: C9, Lying: false
+Round 172 complete
+Participant A Player: Current Play Draw: SQ, Lie: C6, Lying: false
+Participant B Player: Current Play Draw: DJ, Lie: C0, Lying: false
+Participant C Player: Current Play Draw: HQ, Lie: SA, Lying: false
+Round 173 complete
+Participant A Player: Current Play Draw: CA, Lie: S2, Lying: false
+Participant B Player: Current Play Draw: C6, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: S3, Lying: true
+Round 174 complete
+Participant A Player: Current Play Draw: D*, Lie: SJ, Lying: true
+Participant B Player: Current Play Draw: D6, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: *9, Lie: H2, Lying: true
+Round 175 complete
+Participant A Player: Current Play Draw: H8, Lie: H6, Lying: false
+Participant B Player: Current Play Draw: D5, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: SJ, Lie: C4, Lying: false
+Round 176 complete
+Participant A Player: Current Play Draw: CJ, Lie: S8, Lying: false
+Participant B Player: Current Play Draw: **, Lie: CK, Lying: true
+Participant C Player: Current Play Draw: H5, Lie: S8, Lying: false
+Round 177 complete
+Participant A Player: Current Play Draw: D0, Lie: S0, Lying: false
+Participant B Player: Current Play Draw: SA, Lie: C4, Lying: false
+Participant C Player: Current Play Draw: HQ, Lie: C0, Lying: false
+Round 178 complete
+Participant A Player: Current Play Draw: *6, Lie: HJ, Lying: true
+Participant B Player: Current Play Draw: DA, Lie: C8, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: C2, Lying: true
+Round 179 complete
+Participant A Player: Current Play Draw: C0, Lie: H9, Lying: false
+Participant B Player: Current Play Draw: H6, Lie: D2, Lying: false
+Participant C Player: Current Play Draw: C8, Lie: D4, Lying: false
+Round 180 complete
+Participant A Player: Current Play Draw: S7, Lie: HA, Lying: false
+Participant B Player: Current Play Draw: *4, Lie: S7, Lying: true
+Participant C Player: Current Play Draw: D0, Lie: C8, Lying: false
+Found a duplicate!
+(false) challenge bullshit, expected response bullshitS7, response bullshit*4
+Liar! Participant B will be removed!
+Round 181 complete
+Participant A Player: Current Play Draw: C*, Lie: C4, Lying: true
+Participant C Player: Current Play Draw: H7, Lie: D5, Lying: false
+Round 182 complete
+Participant A Player: Current Play Draw: D0, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: C8, Lying: false
+Round 183 complete
+Participant A Player: Current Play Draw: D7, Lie: D9, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: S4, Lying: false
+Round 184 complete
+Participant A Player: Current Play Draw: S8, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: SA, Lying: true
+Round 185 complete
+Participant A Player: Current Play Draw: C7, Lie: HJ, Lying: false
+Participant C Player: Current Play Draw: *Q, Lie: DA, Lying: true
+Round 186 complete
+Participant A Player: Current Play Draw: C*, Lie: H5, Lying: true
+Participant C Player: Current Play Draw: C5, Lie: C9, Lying: false
+Round 187 complete
+Participant A Player: Current Play Draw: S3, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: H2, Lie: HA, Lying: false
+Round 188 complete
+Participant A Player: Current Play Draw: S3, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: *J, Lie: C3, Lying: true
+Round 189 complete
+Participant A Player: Current Play Draw: H0, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: SJ, Lie: C9, Lying: false
+Round 190 complete
+Participant A Player: Current Play Draw: *J, Lie: S4, Lying: true
+Participant C Player: Current Play Draw: C0, Lie: D6, Lying: false
+Round 191 complete
+Participant A Player: Current Play Draw: S*, Lie: H4, Lying: true
+Participant C Player: Current Play Draw: D9, Lie: S7, Lying: false
+Round 192 complete
+Participant A Player: Current Play Draw: H*, Lie: S3, Lying: true
+Participant C Player: Current Play Draw: C0, Lie: H7, Lying: false
+Round 193 complete
+Participant A Player: Current Play Draw: D5, Lie: CJ, Lying: false
+Participant C Player: Current Play Draw: *0, Lie: S3, Lying: true
+Round 194 complete
+Participant A Player: Current Play Draw: C0, Lie: D6, Lying: false
+Participant C Player: Current Play Draw: S6, Lie: C0, Lying: false
+Round 195 complete
+Participant A Player: Current Play Draw: H0, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: S4, Lying: false
+Round 196 complete
+Participant A Player: Current Play Draw: H2, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: H5, Lie: CK, Lying: false
+Round 197 complete
+Participant A Player: Current Play Draw: SQ, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: HA, Lie: C0, Lying: false
+Round 198 complete
+Participant A Player: Current Play Draw: S8, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: D6, Lying: false
+Round 199 complete
+Participant A Player: Current Play Draw: S8, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: CJ, Lying: false
+Round 200 complete
+Participant A Player: Current Play Draw: C9, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: *0, Lie: H0, Lying: true
+Round 201 complete
+Participant A Player: Current Play Draw: H*, Lie: HK, Lying: true
+Participant C Player: Current Play Draw: CJ, Lie: H0, Lying: false
+Round 202 complete
+Participant A Player: Current Play Draw: *A, Lie: C5, Lying: true
+Participant C Player: Current Play Draw: C9, Lie: S3, Lying: false
+Round 203 complete
+Participant A Player: Current Play Draw: D9, Lie: HA, Lying: false
+Participant C Player: Current Play Draw: DA, Lie: H5, Lying: false
+Round 204 complete
+Participant A Player: Current Play Draw: *9, Lie: D2, Lying: true
+Participant C Player: Current Play Draw: *3, Lie: C2, Lying: true
+Round 205 complete
+Participant A Player: Current Play Draw: HA, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: C2, Lie: SK, Lying: false
+Round 206 complete
+Participant A Player: Current Play Draw: S4, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: H7, Lying: false
+Round 207 complete
+Participant A Player: Current Play Draw: SA, Lie: C8, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: H9, Lying: true
+Round 208 complete
+Participant A Player: Current Play Draw: C7, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: HJ, Lying: false
+Round 209 complete
+Participant A Player: Current Play Draw: DA, Lie: CK, Lying: false
+Participant C Player: Current Play Draw: *4, Lie: S0, Lying: true
+Round 210 complete
+Participant A Player: Current Play Draw: S2, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: HQ, Lying: true
+Round 211 complete
+Participant A Player: Current Play Draw: H7, Lie: HA, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: H5, Lying: true
+Round 212 complete
+Participant A Player: Current Play Draw: HQ, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: DK, Lie: CQ, Lying: false
+Round 213 complete
+Participant A Player: Current Play Draw: C2, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: *4, Lie: SQ, Lying: true
+Round 214 complete
+Participant A Player: Current Play Draw: H2, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: C6, Lie: SK, Lying: false
+Round 215 complete
+Participant A Player: Current Play Draw: C5, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: S5, Lie: CK, Lying: false
+Round 216 complete
+Participant A Player: Current Play Draw: S7, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: D3, Lying: false
+Round 217 complete
+Participant A Player: Current Play Draw: D2, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: *8, Lie: CK, Lying: true
+Round 218 complete
+Participant A Player: Current Play Draw: *6, Lie: D8, Lying: true
+Participant C Player: Current Play Draw: D9, Lie: HK, Lying: false
+Round 219 complete
+Participant A Player: Current Play Draw: S8, Lie: D9, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: S9, Lying: false
+Round 220 complete
+Participant A Player: Current Play Draw: *7, Lie: H4, Lying: true
+Participant C Player: Current Play Draw: D5, Lie: S5, Lying: false
+Round 221 complete
+Participant A Player: Current Play Draw: D7, Lie: C7, Lying: false
+Participant C Player: Current Play Draw: D5, Lie: H9, Lying: false
+Round 222 complete
+Participant A Player: Current Play Draw: S9, Lie: CK, Lying: false
+Participant C Player: Current Play Draw: D4, Lie: HK, Lying: false
+Round 223 complete
+Participant A Player: Current Play Draw: C0, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: *9, Lie: CA, Lying: true
+Round 224 complete
+Participant A Player: Current Play Draw: HJ, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: SQ, Lie: SA, Lying: false
+Round 225 complete
+Participant A Player: Current Play Draw: *8, Lie: H2, Lying: true
+Participant C Player: Current Play Draw: HA, Lie: C2, Lying: false
+Round 226 complete
+Participant A Player: Current Play Draw: D8, Lie: D8, Lying: false
+Participant C Player: Current Play Draw: H3, Lie: D6, Lying: false
+Round 227 complete
+Participant A Player: Current Play Draw: S3, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: C8, Lie: D8, Lying: false
+Round 228 complete
+Participant A Player: Current Play Draw: H3, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: C4, Lie: H4, Lying: false
+Round 229 complete
+Participant A Player: Current Play Draw: C2, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: C3, Lying: true
+Round 230 complete
+Participant A Player: Current Play Draw: HQ, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: H3, Lying: false
+Round 231 complete
+Participant A Player: Current Play Draw: C*, Lie: SA, Lying: true
+Participant C Player: Current Play Draw: H6, Lie: S4, Lying: false
+Round 232 complete
+Participant A Player: Current Play Draw: C5, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: C6, Lie: D2, Lying: false
+Round 233 complete
+Participant A Player: Current Play Draw: S0, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: CJ, Lying: true
+Round 234 complete
+Participant A Player: Current Play Draw: *A, Lie: C3, Lying: true
+Participant C Player: Current Play Draw: *9, Lie: SA, Lying: true
+Round 235 complete
+Participant A Player: Current Play Draw: H9, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: C2, Lie: CA, Lying: false
+Round 236 complete
+Participant A Player: Current Play Draw: S*, Lie: DA, Lying: true
+Participant C Player: Current Play Draw: C0, Lie: C4, Lying: false
+Round 237 complete
+Participant A Player: Current Play Draw: H7, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: *8, Lie: S0, Lying: true
+Round 238 complete
+Participant A Player: Current Play Draw: H6, Lie: C2, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: D2, Lying: false
+Round 239 complete
+Participant A Player: Current Play Draw: C6, Lie: HA, Lying: false
+Participant C Player: Current Play Draw: D8, Lie: C2, Lying: false
+Round 240 complete
+Participant A Player: Current Play Draw: C8, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: C8, Lie: H7, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitC8, response bullshitC8
+Round 241 complete
+Participant A Player: Current Play Draw: C4, Lie: D6, Lying: false
+Participant C Player: Current Play Draw: *0, Lie: DK, Lying: true
+Round 242 complete
+Participant A Player: Current Play Draw: D4, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: C3, Lie: CA, Lying: false
+Round 243 complete
+Participant A Player: Current Play Draw: D2, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: H5, Lie: S0, Lying: false
+Round 244 complete
+Participant A Player: Current Play Draw: H3, Lie: S0, Lying: false
+Participant C Player: Current Play Draw: C*, Lie: S6, Lying: true
+Round 245 complete
+Participant A Player: Current Play Draw: C6, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: DJ, Lying: true
+Round 246 complete
+Participant A Player: Current Play Draw: D7, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: C3, Lying: false
+Round 247 complete
+Participant A Player: Current Play Draw: H7, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: D8, Lie: CA, Lying: false
+Round 248 complete
+Participant A Player: Current Play Draw: C8, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: *8, Lie: HJ, Lying: true
+Round 249 complete
+Participant A Player: Current Play Draw: S*, Lie: S2, Lying: true
+Participant C Player: Current Play Draw: DA, Lie: C4, Lying: false
+Round 250 complete
+Participant A Player: Current Play Draw: S4, Lie: HK, Lying: false
+Participant C Player: Current Play Draw: HQ, Lie: D2, Lying: false
+Round 251 complete
+Participant A Player: Current Play Draw: S8, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: S2, Lie: S6, Lying: false
+Round 252 complete
+Participant A Player: Current Play Draw: C8, Lie: SK, Lying: false
+Participant C Player: Current Play Draw: D2, Lie: D3, Lying: false
+Round 253 complete
+Participant A Player: Current Play Draw: *0, Lie: D0, Lying: true
+Participant C Player: Current Play Draw: H3, Lie: D5, Lying: false
+Round 254 complete
+Participant A Player: Current Play Draw: SQ, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: D7, Lie: C3, Lying: false
+Round 255 complete
+Participant A Player: Current Play Draw: H4, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: HQ, Lie: S8, Lying: false
+Round 256 complete
+Participant A Player: Current Play Draw: C*, Lie: D4, Lying: true
+Participant C Player: Current Play Draw: *7, Lie: DA, Lying: true
+Round 257 complete
+Participant A Player: Current Play Draw: D6, Lie: D4, Lying: false
+Participant C Player: Current Play Draw: D4, Lie: D6, Lying: false
+Round 258 complete
+Participant A Player: Current Play Draw: CA, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: H5, Lying: false
+Round 259 complete
+Participant A Player: Current Play Draw: *3, Lie: H7, Lying: true
+Participant C Player: Current Play Draw: C2, Lie: CQ, Lying: false
+Round 260 complete
+Participant A Player: Current Play Draw: *J, Lie: D7, Lying: true
+Participant C Player: Current Play Draw: SK, Lie: H5, Lying: false
+Round 261 complete
+Participant A Player: Current Play Draw: S9, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: C5, Lying: false
+Round 262 complete
+Participant A Player: Current Play Draw: D2, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: S5, Lie: CJ, Lying: false
+Round 263 complete
+Participant A Player: Current Play Draw: C6, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: HK, Lie: S7, Lying: false
+Round 264 complete
+Participant A Player: Current Play Draw: *K, Lie: D2, Lying: true
+Participant C Player: Current Play Draw: D5, Lie: C5, Lying: false
+Round 265 complete
+Participant A Player: Current Play Draw: H2, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: H5, Lying: true
+Round 266 complete
+Participant A Player: Current Play Draw: S3, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: HJ, Lying: false
+Round 267 complete
+Participant A Player: Current Play Draw: D9, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: SJ, Lying: true
+Round 268 complete
+Participant A Player: Current Play Draw: **, Lie: DJ, Lying: true
+Participant C Player: Current Play Draw: H9, Lie: HK, Lying: false
+Round 269 complete
+Participant A Player: Current Play Draw: H7, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: *7, Lie: D5, Lying: true
+Round 270 complete
+Participant A Player: Current Play Draw: *K, Lie: H6, Lying: true
+Participant C Player: Current Play Draw: *0, Lie: C3, Lying: true
+Round 271 complete
+Participant A Player: Current Play Draw: SJ, Lie: SA, Lying: false
+Participant C Player: Current Play Draw: H3, Lie: H5, Lying: false
+Round 272 complete
+Participant A Player: Current Play Draw: D6, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: H9, Lie: DQ, Lying: false
+Round 273 complete
+Participant A Player: Current Play Draw: *2, Lie: H8, Lying: true
+Participant C Player: Current Play Draw: C0, Lie: C4, Lying: false
+Round 274 complete
+Participant A Player: Current Play Draw: S7, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: S5, Lie: C7, Lying: false
+Round 275 complete
+Participant A Player: Current Play Draw: SK, Lie: HA, Lying: false
+Participant C Player: Current Play Draw: H8, Lie: S6, Lying: false
+Round 276 complete
+Participant A Player: Current Play Draw: S4, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: S*, Lie: D0, Lying: true
+Round 277 complete
+Participant A Player: Current Play Draw: *Q, Lie: C8, Lying: true
+Participant C Player: Current Play Draw: D8, Lie: SA, Lying: false
+Round 278 complete
+Participant A Player: Current Play Draw: H5, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: H7, Lying: true
+Round 279 complete
+Participant A Player: Current Play Draw: *Q, Lie: D2, Lying: true
+Participant C Player: Current Play Draw: H3, Lie: C5, Lying: false
+Round 280 complete
+Participant A Player: Current Play Draw: S5, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: C5, Lie: HK, Lying: false
+Round 281 complete
+Participant A Player: Current Play Draw: D0, Lie: C2, Lying: false
+Participant C Player: Current Play Draw: *7, Lie: H9, Lying: true
+Round 282 complete
+Participant A Player: Current Play Draw: S7, Lie: D7, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: D0, Lying: true
+Round 283 complete
+Participant A Player: Current Play Draw: S7, Lie: C8, Lying: false
+Participant C Player: Current Play Draw: *J, Lie: H9, Lying: true
+Round 284 complete
+Participant A Player: Current Play Draw: *4, Lie: HQ, Lying: true
+Participant C Player: Current Play Draw: *9, Lie: H8, Lying: true
+Round 285 complete
+Participant A Player: Current Play Draw: *5, Lie: S6, Lying: true
+Participant C Player: Current Play Draw: D3, Lie: C0, Lying: false
+Round 286 complete
+Participant A Player: Current Play Draw: CK, Lie: CJ, Lying: false
+Participant C Player: Current Play Draw: S5, Lie: H6, Lying: false
+Round 287 complete
+Participant A Player: Current Play Draw: C7, Lie: C0, Lying: false
+Participant C Player: Current Play Draw: D8, Lie: SA, Lying: false
+Round 288 complete
+Participant A Player: Current Play Draw: SA, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: H0, Lie: C3, Lying: false
+Round 289 complete
+Participant A Player: Current Play Draw: DA, Lie: SA, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: SA, Lying: false
+Round 290 complete
+Participant A Player: Current Play Draw: S8, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: S6, Lying: true
+Round 291 complete
+Participant A Player: Current Play Draw: D9, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: D4, Lie: S6, Lying: false
+Round 292 complete
+Participant A Player: Current Play Draw: *K, Lie: D2, Lying: true
+Participant C Player: Current Play Draw: H6, Lie: SJ, Lying: false
+Round 293 complete
+Participant A Player: Current Play Draw: C3, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: D0, Lying: true
+Round 294 complete
+Participant A Player: Current Play Draw: D8, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: C*, Lie: D2, Lying: true
+Round 295 complete
+Participant A Player: Current Play Draw: D2, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: DK, Lie: S7, Lying: false
+Round 296 complete
+Participant A Player: Current Play Draw: CK, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: S5, Lying: false
+Round 297 complete
+Participant A Player: Current Play Draw: D2, Lie: C0, Lying: false
+Participant C Player: Current Play Draw: SA, Lie: HQ, Lying: false
+Round 298 complete
+Participant A Player: Current Play Draw: C9, Lie: SA, Lying: false
+Participant C Player: Current Play Draw: HA, Lie: H2, Lying: false
+Round 299 complete
+Participant A Player: Current Play Draw: H*, Lie: D2, Lying: true
+Participant C Player: Current Play Draw: D2, Lie: DQ, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitD2, response bullshitD2
+Round 300 complete
+Participant A Player: Current Play Draw: H*, Lie: S4, Lying: true
+Participant C Player: Current Play Draw: H*, Lie: S0, Lying: true
+Round 301 complete
+Participant A Player: Current Play Draw: C3, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: C5, Lie: C0, Lying: false
+Round 302 complete
+Participant A Player: Current Play Draw: *0, Lie: H0, Lying: true
+Participant C Player: Current Play Draw: CJ, Lie: HQ, Lying: false
+Round 303 complete
+Participant A Player: Current Play Draw: D0, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: H5, Lie: C0, Lying: false
+Round 304 complete
+Participant A Player: Current Play Draw: D5, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: SJ, Lie: DA, Lying: false
+Round 305 complete
+Participant A Player: Current Play Draw: CK, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: D9, Lie: CK, Lying: false
+Round 306 complete
+Participant A Player: Current Play Draw: D2, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: C7, Lying: true
+Round 307 complete
+Participant A Player: Current Play Draw: H5, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: C4, Lie: S4, Lying: false
+Round 308 complete
+Participant A Player: Current Play Draw: C9, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: C0, Lying: false
+Round 309 complete
+Participant A Player: Current Play Draw: C4, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: HK, Lie: CQ, Lying: false
+Round 310 complete
+Participant A Player: Current Play Draw: S*, Lie: C9, Lying: true
+Participant C Player: Current Play Draw: D3, Lie: D8, Lying: false
+Round 311 complete
+Participant A Player: Current Play Draw: D8, Lie: H8, Lying: false
+Participant C Player: Current Play Draw: C*, Lie: DJ, Lying: true
+Round 312 complete
+Participant A Player: Current Play Draw: H9, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: HJ, Lying: true
+Round 313 complete
+Participant A Player: Current Play Draw: S8, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: HA, Lie: H2, Lying: false
+Round 314 complete
+Participant A Player: Current Play Draw: *A, Lie: H3, Lying: true
+Participant C Player: Current Play Draw: D3, Lie: HA, Lying: false
+Round 315 complete
+Participant A Player: Current Play Draw: D8, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: SJ, Lying: true
+Round 316 complete
+Participant A Player: Current Play Draw: C0, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: SA, Lie: D0, Lying: false
+Round 317 complete
+Participant A Player: Current Play Draw: D0, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: D2, Lie: C2, Lying: false
+Round 318 complete
+Participant A Player: Current Play Draw: S5, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: CK, Lie: DQ, Lying: false
+Round 319 complete
+Participant A Player: Current Play Draw: C8, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: D3, Lying: false
+Round 320 complete
+Participant A Player: Current Play Draw: *9, Lie: D8, Lying: true
+Participant C Player: Current Play Draw: *9, Lie: C6, Lying: true
+Round 321 complete
+Participant A Player: Current Play Draw: C7, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: SK, Lying: true
+Round 322 complete
+Participant A Player: Current Play Draw: H8, Lie: SA, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: H9, Lying: true
+Round 323 complete
+Participant A Player: Current Play Draw: D0, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: C5, Lying: false
+Round 324 complete
+Participant A Player: Current Play Draw: *2, Lie: S3, Lying: true
+Participant C Player: Current Play Draw: D0, Lie: D2, Lying: false
+Round 325 complete
+Participant A Player: Current Play Draw: SA, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: D4, Lying: true
+Round 326 complete
+Participant A Player: Current Play Draw: D4, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: D5, Lie: C3, Lying: false
+Round 327 complete
+Participant A Player: Current Play Draw: H9, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: SQ, Lie: DJ, Lying: false
+Round 328 complete
+Participant A Player: Current Play Draw: C2, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: SQ, Lie: D5, Lying: false
+Round 329 complete
+Participant A Player: Current Play Draw: D*, Lie: SQ, Lying: true
+Participant C Player: Current Play Draw: D7, Lie: H9, Lying: false
+Round 330 complete
+Participant A Player: Current Play Draw: D7, Lie: D2, Lying: false
+Participant C Player: Current Play Draw: C5, Lie: SA, Lying: false
+Round 331 complete
+Participant A Player: Current Play Draw: *5, Lie: D4, Lying: true
+Participant C Player: Current Play Draw: D0, Lie: C5, Lying: false
+Round 332 complete
+Participant A Player: Current Play Draw: CA, Lie: H0, Lying: false
+Participant C Player: Current Play Draw: H0, Lie: DQ, Lying: false
+Round 333 complete
+Participant A Player: Current Play Draw: C6, Lie: D9, Lying: false
+Participant C Player: Current Play Draw: D0, Lie: H9, Lying: false
+Round 334 complete
+Participant A Player: Current Play Draw: DK, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: S0, Lie: D0, Lying: false
+Round 335 complete
+Participant A Player: Current Play Draw: C8, Lie: D0, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: H2, Lying: false
+Round 336 complete
+Participant A Player: Current Play Draw: D6, Lie: H8, Lying: false
+Participant C Player: Current Play Draw: CQ, Lie: H4, Lying: false
+Round 337 complete
+Participant A Player: Current Play Draw: S9, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: DK, Lying: false
+Round 338 complete
+Participant A Player: Current Play Draw: *9, Lie: S4, Lying: true
+Participant C Player: Current Play Draw: C2, Lie: D7, Lying: false
+Round 339 complete
+Participant A Player: Current Play Draw: S8, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: CQ, Lie: H6, Lying: false
+Round 340 complete
+Participant A Player: Current Play Draw: S3, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: S*, Lie: C5, Lying: true
+Round 341 complete
+Participant A Player: Current Play Draw: H7, Lie: DA, Lying: false
+Participant C Player: Current Play Draw: *K, Lie: D2, Lying: true
+Round 342 complete
+Participant A Player: Current Play Draw: D5, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: DK, Lie: H4, Lying: false
+Round 343 complete
+Participant A Player: Current Play Draw: HQ, Lie: S0, Lying: false
+Participant C Player: Current Play Draw: D5, Lie: CQ, Lying: false
+Round 344 complete
+Participant A Player: Current Play Draw: *0, Lie: S6, Lying: true
+Participant C Player: Current Play Draw: SJ, Lie: S3, Lying: false
+Round 345 complete
+Participant A Player: Current Play Draw: H3, Lie: D8, Lying: false
+Participant C Player: Current Play Draw: CK, Lie: D2, Lying: false
+Round 346 complete
+Participant A Player: Current Play Draw: D0, Lie: HK, Lying: false
+Participant C Player: Current Play Draw: *J, Lie: C5, Lying: true
+Round 347 complete
+Participant A Player: Current Play Draw: S2, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: HK, Lying: false
+Round 348 complete
+Participant A Player: Current Play Draw: H0, Lie: H8, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: C2, Lying: false
+Round 349 complete
+Participant A Player: Current Play Draw: *J, Lie: D8, Lying: true
+Participant C Player: Current Play Draw: *4, Lie: C2, Lying: true
+Round 350 complete
+Participant A Player: Current Play Draw: H7, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: H0, Lying: false
+Round 351 complete
+Participant A Player: Current Play Draw: H8, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: SQ, Lying: true
+Round 352 complete
+Participant A Player: Current Play Draw: D0, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: C5, Lie: H3, Lying: false
+Round 353 complete
+Participant A Player: Current Play Draw: H7, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: C*, Lie: DK, Lying: true
+Round 354 complete
+Participant A Player: Current Play Draw: DK, Lie: C8, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: H2, Lying: false
+Round 355 complete
+Participant A Player: Current Play Draw: H7, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: C4, Lying: false
+Round 356 complete
+Participant A Player: Current Play Draw: S6, Lie: D8, Lying: false
+Participant C Player: Current Play Draw: **, Lie: C9, Lying: true
+Round 357 complete
+Participant A Player: Current Play Draw: **, Lie: C8, Lying: true
+Participant C Player: Current Play Draw: H5, Lie: C2, Lying: false
+Round 358 complete
+Participant A Player: Current Play Draw: S7, Lie: CK, Lying: false
+Participant C Player: Current Play Draw: H*, Lie: HA, Lying: true
+Round 359 complete
+Participant A Player: Current Play Draw: H4, Lie: C7, Lying: false
+Participant C Player: Current Play Draw: D3, Lie: HA, Lying: false
+Round 360 complete
+Participant A Player: Current Play Draw: C5, Lie: D6, Lying: false
+Participant C Player: Current Play Draw: S2, Lie: C4, Lying: false
+Round 361 complete
+Participant A Player: Current Play Draw: D4, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: CJ, Lie: C0, Lying: false
+Round 362 complete
+Participant A Player: Current Play Draw: D7, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: C6, Lie: SQ, Lying: false
+Round 363 complete
+Participant A Player: Current Play Draw: CQ, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: S4, Lie: C0, Lying: false
+Round 364 complete
+Participant A Player: Current Play Draw: C0, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: HA, Lying: false
+Round 365 complete
+Participant A Player: Current Play Draw: *5, Lie: CK, Lying: true
+Participant C Player: Current Play Draw: C4, Lie: S2, Lying: false
+Round 366 complete
+Participant A Player: Current Play Draw: D2, Lie: H5, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: D0, Lying: false
+Round 367 complete
+Participant A Player: Current Play Draw: H*, Lie: SK, Lying: true
+Participant C Player: Current Play Draw: H2, Lie: D9, Lying: false
+Round 368 complete
+Participant A Player: Current Play Draw: HK, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: H8, Lie: C6, Lying: false
+Round 369 complete
+Participant A Player: Current Play Draw: SK, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: S3, Lie: S7, Lying: false
+Round 370 complete
+Participant A Player: Current Play Draw: D6, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: S8, Lying: false
+Round 371 complete
+Participant A Player: Current Play Draw: CJ, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: C3, Lying: false
+Round 372 complete
+Participant A Player: Current Play Draw: S0, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: CJ, Lie: S7, Lying: false
+Round 373 complete
+Participant A Player: Current Play Draw: *Q, Lie: H6, Lying: true
+Participant C Player: Current Play Draw: HJ, Lie: S2, Lying: false
+Round 374 complete
+Participant A Player: Current Play Draw: CQ, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: HQ, Lie: D0, Lying: false
+Round 375 complete
+Participant A Player: Current Play Draw: C4, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: S4, Lie: D3, Lying: false
+Round 376 complete
+Participant A Player: Current Play Draw: *7, Lie: H9, Lying: true
+Participant C Player: Current Play Draw: D8, Lie: H9, Lying: false
+Round 377 complete
+Participant A Player: Current Play Draw: *2, Lie: S9, Lying: true
+Participant C Player: Current Play Draw: D*, Lie: S4, Lying: true
+Round 378 complete
+Participant A Player: Current Play Draw: H9, Lie: D6, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: CQ, Lying: false
+Round 379 complete
+Participant A Player: Current Play Draw: C4, Lie: D7, Lying: false
+Participant C Player: Current Play Draw: SQ, Lie: S4, Lying: false
+Round 380 complete
+Participant A Player: Current Play Draw: D7, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: HK, Lying: true
+Round 381 complete
+Participant A Player: Current Play Draw: D*, Lie: D0, Lying: true
+Participant C Player: Current Play Draw: CA, Lie: S5, Lying: false
+Round 382 complete
+Participant A Player: Current Play Draw: D8, Lie: C7, Lying: false
+Participant C Player: Current Play Draw: HK, Lie: H0, Lying: false
+Round 383 complete
+Participant A Player: Current Play Draw: *Q, Lie: S3, Lying: true
+Participant C Player: Current Play Draw: H8, Lie: C4, Lying: false
+Round 384 complete
+Participant A Player: Current Play Draw: S9, Lie: HK, Lying: false
+Participant C Player: Current Play Draw: D8, Lie: SJ, Lying: false
+Round 385 complete
+Participant A Player: Current Play Draw: *K, Lie: D6, Lying: true
+Participant C Player: Current Play Draw: D8, Lie: H8, Lying: false
+Round 386 complete
+Participant A Player: Current Play Draw: S5, Lie: HK, Lying: false
+Participant C Player: Current Play Draw: C*, Lie: C8, Lying: true
+Round 387 complete
+Participant A Player: Current Play Draw: SA, Lie: CJ, Lying: false
+Participant C Player: Current Play Draw: *3, Lie: H8, Lying: true
+Round 388 complete
+Participant A Player: Current Play Draw: C7, Lie: C0, Lying: false
+Participant C Player: Current Play Draw: C6, Lie: D5, Lying: false
+Round 389 complete
+Participant A Player: Current Play Draw: *J, Lie: CA, Lying: true
+Participant C Player: Current Play Draw: H2, Lie: SK, Lying: false
+Round 390 complete
+Participant A Player: Current Play Draw: S5, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: H5, Lie: D8, Lying: false
+Round 391 complete
+Participant A Player: Current Play Draw: S*, Lie: D9, Lying: true
+Participant C Player: Current Play Draw: *0, Lie: S2, Lying: true
+Round 392 complete
+Participant A Player: Current Play Draw: *J, Lie: DA, Lying: true
+Participant C Player: Current Play Draw: **, Lie: CA, Lying: true
+Round 393 complete
+Participant A Player: Current Play Draw: DA, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: C6, Lying: false
+Round 394 complete
+Participant A Player: Current Play Draw: S0, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: C2, Lie: SJ, Lying: false
+Round 395 complete
+Participant A Player: Current Play Draw: DA, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: S5, Lying: false
+Round 396 complete
+Participant A Player: Current Play Draw: *7, Lie: C7, Lying: true
+Participant C Player: Current Play Draw: D6, Lie: DK, Lying: false
+Round 397 complete
+Participant A Player: Current Play Draw: *4, Lie: C7, Lying: true
+Participant C Player: Current Play Draw: D6, Lie: D3, Lying: false
+Round 398 complete
+Participant A Player: Current Play Draw: CA, Lie: S3, Lying: false
+Participant C Player: Current Play Draw: **, Lie: H5, Lying: true
+Round 399 complete
+Participant A Player: Current Play Draw: HJ, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: HQ, Lying: false
+Round 400 complete
+Participant A Player: Current Play Draw: C3, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: D8, Lying: false
+Round 401 complete
+Participant A Player: Current Play Draw: D5, Lie: H0, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: C4, Lying: false
+Round 402 complete
+Participant A Player: Current Play Draw: D9, Lie: SK, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: DQ, Lying: false
+Round 403 complete
+Participant A Player: Current Play Draw: D6, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: HK, Lie: S6, Lying: false
+Round 404 complete
+Participant A Player: Current Play Draw: *8, Lie: C2, Lying: true
+Participant C Player: Current Play Draw: *A, Lie: H8, Lying: true
+Round 405 complete
+Participant A Player: Current Play Draw: S3, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: SA, Lie: D0, Lying: false
+Round 406 complete
+Participant A Player: Current Play Draw: *K, Lie: S9, Lying: true
+Participant C Player: Current Play Draw: S6, Lie: DK, Lying: false
+Round 407 complete
+Participant A Player: Current Play Draw: H9, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: **, Lie: D6, Lying: true
+Round 408 complete
+Participant A Player: Current Play Draw: D8, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: C9, Lie: D4, Lying: false
+Round 409 complete
+Participant A Player: Current Play Draw: DJ, Lie: S7, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: S9, Lying: true
+Round 410 complete
+Participant A Player: Current Play Draw: HQ, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: D7, Lie: D8, Lying: false
+Round 411 complete
+Participant A Player: Current Play Draw: SA, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: C3, Lie: S3, Lying: false
+Round 412 complete
+Participant A Player: Current Play Draw: **, Lie: H0, Lying: true
+Participant C Player: Current Play Draw: H3, Lie: S0, Lying: false
+Round 413 complete
+Participant A Player: Current Play Draw: H2, Lie: D4, Lying: false
+Participant C Player: Current Play Draw: *3, Lie: CK, Lying: true
+Round 414 complete
+Participant A Player: Current Play Draw: S6, Lie: DK, Lying: false
+Participant C Player: Current Play Draw: H2, Lie: C9, Lying: false
+Round 415 complete
+Participant A Player: Current Play Draw: HJ, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: D7, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitHJ, response bullshitHJ
+Round 416 complete
+Participant A Player: Current Play Draw: C5, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: *4, Lie: DJ, Lying: true
+Round 417 complete
+Participant A Player: Current Play Draw: DK, Lie: S2, Lying: false
+Participant C Player: Current Play Draw: H*, Lie: D9, Lying: true
+Round 418 complete
+Participant A Player: Current Play Draw: HA, Lie: DA, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: CK, Lying: false
+Round 419 complete
+Participant A Player: Current Play Draw: *K, Lie: HK, Lying: true
+Participant C Player: Current Play Draw: *4, Lie: C8, Lying: true
+Round 420 complete
+Participant A Player: Current Play Draw: H0, Lie: C2, Lying: false
+Participant C Player: Current Play Draw: S3, Lie: C7, Lying: false
+Round 421 complete
+Participant A Player: Current Play Draw: SQ, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: C3, Lying: true
+Round 422 complete
+Participant A Player: Current Play Draw: D7, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: DA, Lie: H2, Lying: false
+Round 423 complete
+Participant A Player: Current Play Draw: *2, Lie: D0, Lying: true
+Participant C Player: Current Play Draw: H3, Lie: C9, Lying: false
+Round 424 complete
+Participant A Player: Current Play Draw: D0, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: HA, Lie: S8, Lying: false
+Round 425 complete
+Participant A Player: Current Play Draw: C9, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: D7, Lying: false
+Round 426 complete
+Participant A Player: Current Play Draw: S7, Lie: D0, Lying: false
+Participant C Player: Current Play Draw: C0, Lie: C6, Lying: false
+Round 427 complete
+Participant A Player: Current Play Draw: SJ, Lie: CQ, Lying: false
+Participant C Player: Current Play Draw: H0, Lie: H7, Lying: false
+Round 428 complete
+Participant A Player: Current Play Draw: S*, Lie: SK, Lying: true
+Participant C Player: Current Play Draw: SK, Lie: CK, Lying: false
+Found a duplicate!
+(true) challenge bullshit, expected response bullshitSK, response bullshitSK
+Round 429 complete
+Participant A Player: Current Play Draw: *Q, Lie: D2, Lying: true
+Participant C Player: Current Play Draw: C9, Lie: CQ, Lying: false
+Round 430 complete
+Participant A Player: Current Play Draw: D5, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: *9, Lie: C8, Lying: true
+Round 431 complete
+Participant A Player: Current Play Draw: *9, Lie: C3, Lying: true
+Participant C Player: Current Play Draw: S3, Lie: S4, Lying: false
+Round 432 complete
+Participant A Player: Current Play Draw: DK, Lie: D0, Lying: false
+Participant C Player: Current Play Draw: D2, Lie: S9, Lying: false
+Round 433 complete
+Participant A Player: Current Play Draw: DK, Lie: C7, Lying: false
+Participant C Player: Current Play Draw: H3, Lie: D9, Lying: false
+Round 434 complete
+Participant A Player: Current Play Draw: CA, Lie: HJ, Lying: false
+Participant C Player: Current Play Draw: *A, Lie: CQ, Lying: true
+Round 435 complete
+Participant A Player: Current Play Draw: *Q, Lie: C8, Lying: true
+Participant C Player: Current Play Draw: C7, Lie: S5, Lying: false
+Round 436 complete
+Participant A Player: Current Play Draw: H2, Lie: H0, Lying: false
+Participant C Player: Current Play Draw: S4, Lie: DA, Lying: false
+Round 437 complete
+Participant A Player: Current Play Draw: D4, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: **, Lie: H7, Lying: true
+Round 438 complete
+Participant A Player: Current Play Draw: CQ, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: D2, Lie: D2, Lying: false
+Round 439 complete
+Participant A Player: Current Play Draw: C5, Lie: SK, Lying: false
+Participant C Player: Current Play Draw: *3, Lie: SQ, Lying: true
+Round 440 complete
+Participant A Player: Current Play Draw: DQ, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: S4, Lie: C6, Lying: false
+Round 441 complete
+Participant A Player: Current Play Draw: C5, Lie: D2, Lying: false
+Participant C Player: Current Play Draw: DQ, Lie: D3, Lying: false
+Round 442 complete
+Participant A Player: Current Play Draw: C5, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: DQ, Lie: D6, Lying: false
+Round 443 complete
+Participant A Player: Current Play Draw: CA, Lie: S6, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: H4, Lying: true
+Round 444 complete
+Participant A Player: Current Play Draw: H2, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: *3, Lie: C7, Lying: true
+Round 445 complete
+Participant A Player: Current Play Draw: *9, Lie: S0, Lying: true
+Participant C Player: Current Play Draw: *K, Lie: D6, Lying: true
+Round 446 complete
+Participant A Player: Current Play Draw: CK, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: CQ, Lying: false
+Round 447 complete
+Participant A Player: Current Play Draw: CJ, Lie: S2, Lying: false
+Participant C Player: Current Play Draw: H*, Lie: H3, Lying: true
+Round 448 complete
+Participant A Player: Current Play Draw: C3, Lie: C5, Lying: false
+Participant C Player: Current Play Draw: SQ, Lie: C5, Lying: false
+Round 449 complete
+Participant A Player: Current Play Draw: S9, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: D4, Lying: false
+Round 450 complete
+Participant A Player: Current Play Draw: H0, Lie: S0, Lying: false
+Participant C Player: Current Play Draw: CK, Lie: DK, Lying: false
+Round 451 complete
+Participant A Player: Current Play Draw: *7, Lie: DK, Lying: true
+Participant C Player: Current Play Draw: SJ, Lie: S4, Lying: false
+Round 452 complete
+Participant A Player: Current Play Draw: H4, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: S*, Lie: D8, Lying: true
+Round 453 complete
+Participant A Player: Current Play Draw: *5, Lie: S0, Lying: true
+Participant C Player: Current Play Draw: DQ, Lie: C2, Lying: false
+Round 454 complete
+Participant A Player: Current Play Draw: *2, Lie: S3, Lying: true
+Participant C Player: Current Play Draw: S6, Lie: C5, Lying: false
+Round 455 complete
+Participant A Player: Current Play Draw: HJ, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: SK, Lying: false
+Round 456 complete
+Participant A Player: Current Play Draw: C7, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: *J, Lie: S9, Lying: true
+Round 457 complete
+Participant A Player: Current Play Draw: S4, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: H0, Lie: C4, Lying: false
+Round 458 complete
+Participant A Player: Current Play Draw: H*, Lie: H3, Lying: true
+Participant C Player: Current Play Draw: D7, Lie: S7, Lying: false
+Round 459 complete
+Participant A Player: Current Play Draw: CK, Lie: D7, Lying: false
+Participant C Player: Current Play Draw: H5, Lie: S6, Lying: false
+Round 460 complete
+Participant A Player: Current Play Draw: *0, Lie: DJ, Lying: true
+Participant C Player: Current Play Draw: S9, Lie: SQ, Lying: false
+Round 461 complete
+Participant A Player: Current Play Draw: SK, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: DJ, Lie: S3, Lying: false
+Round 462 complete
+Participant A Player: Current Play Draw: HJ, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: HA, Lie: S9, Lying: false
+Round 463 complete
+Participant A Player: Current Play Draw: H5, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: S7, Lie: H7, Lying: false
+Round 464 complete
+Participant A Player: Current Play Draw: HJ, Lie: H4, Lying: false
+Participant C Player: Current Play Draw: D5, Lie: SJ, Lying: false
+Round 465 complete
+Participant A Player: Current Play Draw: HJ, Lie: D6, Lying: false
+Participant C Player: Current Play Draw: H9, Lie: DQ, Lying: false
+Round 466 complete
+Participant A Player: Current Play Draw: CK, Lie: C6, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: H7, Lying: false
+Round 467 complete
+Participant A Player: Current Play Draw: *A, Lie: SK, Lying: true
+Participant C Player: Current Play Draw: *Q, Lie: S8, Lying: true
+Round 468 complete
+Participant A Player: Current Play Draw: *5, Lie: CJ, Lying: true
+Participant C Player: Current Play Draw: S7, Lie: HK, Lying: false
+Round 469 complete
+Participant A Player: Current Play Draw: **, Lie: H3, Lying: true
+Participant C Player: Current Play Draw: C7, Lie: D5, Lying: false
+Round 470 complete
+Participant A Player: Current Play Draw: CJ, Lie: H2, Lying: false
+Participant C Player: Current Play Draw: *7, Lie: D9, Lying: true
+Round 471 complete
+Participant A Player: Current Play Draw: *6, Lie: D7, Lying: true
+Participant C Player: Current Play Draw: S4, Lie: S6, Lying: false
+Round 472 complete
+Participant A Player: Current Play Draw: SQ, Lie: H9, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: S8, Lying: false
+Round 473 complete
+Participant A Player: Current Play Draw: D5, Lie: C9, Lying: false
+Participant C Player: Current Play Draw: SA, Lie: D5, Lying: false
+Round 474 complete
+Participant A Player: Current Play Draw: H3, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: H9, Lie: D2, Lying: false
+Round 475 complete
+Participant A Player: Current Play Draw: H2, Lie: C2, Lying: false
+Participant C Player: Current Play Draw: D6, Lie: H2, Lying: false
+Round 476 complete
+Participant A Player: Current Play Draw: *A, Lie: CA, Lying: true
+Participant C Player: Current Play Draw: HQ, Lie: SQ, Lying: false
+Round 477 complete
+Participant A Player: Current Play Draw: D2, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: *2, Lie: SQ, Lying: true
+Round 478 complete
+Participant A Player: Current Play Draw: S8, Lie: SJ, Lying: false
+Participant C Player: Current Play Draw: SK, Lie: C3, Lying: false
+Round 479 complete
+Participant A Player: Current Play Draw: D3, Lie: H7, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: SQ, Lying: true
+Round 480 complete
+Participant A Player: Current Play Draw: *Q, Lie: SJ, Lying: true
+Participant C Player: Current Play Draw: SQ, Lie: HA, Lying: false
+Round 481 complete
+Participant A Player: Current Play Draw: DK, Lie: D3, Lying: false
+Participant C Player: Current Play Draw: C5, Lie: DQ, Lying: false
+Round 482 complete
+Participant A Player: Current Play Draw: *0, Lie: S4, Lying: true
+Participant C Player: Current Play Draw: C5, Lie: SK, Lying: false
+Round 483 complete
+Participant A Player: Current Play Draw: *4, Lie: DA, Lying: true
+Participant C Player: Current Play Draw: D9, Lie: S3, Lying: false
+Round 484 complete
+Participant A Player: Current Play Draw: S9, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: C5, Lie: S7, Lying: false
+Round 485 complete
+Participant A Player: Current Play Draw: SJ, Lie: D5, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: D5, Lying: false
+Round 486 complete
+Participant A Player: Current Play Draw: C5, Lie: S2, Lying: false
+Participant C Player: Current Play Draw: S4, Lie: DQ, Lying: false
+Round 487 complete
+Participant A Player: Current Play Draw: D2, Lie: S8, Lying: false
+Participant C Player: Current Play Draw: D3, Lie: C6, Lying: false
+Round 488 complete
+Participant A Player: Current Play Draw: C*, Lie: S9, Lying: true
+Participant C Player: Current Play Draw: C9, Lie: S6, Lying: false
+Round 489 complete
+Participant A Player: Current Play Draw: S6, Lie: S0, Lying: false
+Participant C Player: Current Play Draw: H4, Lie: D3, Lying: false
+Round 490 complete
+Participant A Player: Current Play Draw: DQ, Lie: HQ, Lying: false
+Participant C Player: Current Play Draw: *5, Lie: C2, Lying: true
+Round 491 complete
+Participant A Player: Current Play Draw: SQ, Lie: C4, Lying: false
+Participant C Player: Current Play Draw: S0, Lie: D8, Lying: false
+Round 492 complete
+Participant A Player: Current Play Draw: C8, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: HJ, Lie: D6, Lying: false
+Round 493 complete
+Participant A Player: Current Play Draw: D8, Lie: H0, Lying: false
+Participant C Player: Current Play Draw: CJ, Lie: C8, Lying: false
+Round 494 complete
+Participant A Player: Current Play Draw: D5, Lie: D4, Lying: false
+Participant C Player: Current Play Draw: CQ, Lie: D3, Lying: false
+Round 495 complete
+Participant A Player: Current Play Draw: H9, Lie: SQ, Lying: false
+Participant C Player: Current Play Draw: *0, Lie: C4, Lying: true
+Round 496 complete
+Participant A Player: Current Play Draw: S7, Lie: C3, Lying: false
+Participant C Player: Current Play Draw: H7, Lie: S0, Lying: false
+Round 497 complete
+Participant A Player: Current Play Draw: H*, Lie: HA, Lying: true
+Participant C Player: Current Play Draw: S6, Lie: H8, Lying: false
+Round 498 complete
+Participant A Player: Current Play Draw: D0, Lie: SK, Lying: false
+Participant C Player: Current Play Draw: *9, Lie: SK, Lying: true
+Round 499 complete
+Participant A Player: Current Play Draw: *6, Lie: CJ, Lying: true
+Participant C Player: Current Play Draw: H6, Lie: H8, Lying: false
+Round 500 complete
+Participant A Player: Current Play Draw: C6, Lie: DJ, Lying: false
+Participant C Player: Current Play Draw: C7, Lie: D5, Lying: false
+Round 501 complete
+Participant A Player: Current Play Draw: C0, Lie: CQ, Lying: false
+Participant C Player: Current Play Draw: CJ, Lie: D8, Lying: false
+Round 502 complete
+Participant A Player: Current Play Draw: H2, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: D0, Lie: S6, Lying: false
+Round 503 complete
+Participant A Player: Current Play Draw: C8, Lie: H6, Lying: false
+Participant C Player: Current Play Draw: S6, Lie: C9, Lying: false
+Round 504 complete
+Participant A Player: Current Play Draw: H6, Lie: HK, Lying: false
+Participant C Player: Current Play Draw: D*, Lie: H3, Lying: true
+Round 505 complete
+Participant A Player: Current Play Draw: SK, Lie: D7, Lying: false
+Participant C Player: Current Play Draw: S9, Lie: H3, Lying: false
+Round 506 complete
+Participant A Player: Current Play Draw: **, Lie: C6, Lying: true
+Participant C Player: Current Play Draw: C8, Lie: C5, Lying: false
+Round 507 complete
+Participant A Player: Current Play Draw: *6, Lie: D0, Lying: true
+Participant C Player: Current Play Draw: S7, Lie: SQ, Lying: false
+Round 508 complete
+Participant A Player: Current Play Draw: DJ, Lie: S4, Lying: false
+Participant C Player: Current Play Draw: S8, Lie: S5, Lying: false
+Round 509 complete
+Participant A Player: Current Play Draw: DK, Lie: DQ, Lying: false
+Participant C Player: Current Play Draw: *6, Lie: C6, Lying: true
+Round 510 complete
+Participant A Player: Current Play Draw: *2, Lie: C5, Lying: true
+Participant C Player: Current Play Draw: D4, Lie: HK, Lying: false
+Round 511 complete
+Participant A Player: Current Play Draw: H8, Lie: S0, Lying: false
+Participant C Player: Current Play Draw: *2, Lie: H7, Lying: true
+Round 512 complete
+Participant A Player: Current Play Draw: HK, Lie: S5, Lying: false
+Participant C Player: Current Play Draw: CA, Lie: H0, Lying: false
+Round 513 complete
+Participant A Player: Current Play Draw: D0, Lie: S9, Lying: false
+Participant C Player: Current Play Draw: *Q, Lie: CQ, Lying: true
+Round 514 complete
+Participant A Player: Current Play Draw: *2, Lie: D2, Lying: true
+Participant C Player: Current Play Draw: H8, Lie: DK, Lying: false
+Round 515 complete
+Participant A Player: Current Play Draw: D4, Lie: CA, Lying: false
+Participant C Player: Current Play Draw: S0, Lie: H9, Lying: false
+Round 516 complete
+Participant A Player: Current Play Draw: *4, Lie: SJ, Lying: true
+Participant C Player: Current Play Draw: H*, Lie: SJ, Lying: true
+Found a duplicate!
+(false) challenge bullshit, expected response bullshitSJ, response bullshitH*
+Liar! Participant C will be removed!
+Round 517 complete
+Made it 517 rounds.

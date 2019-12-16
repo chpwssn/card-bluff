@@ -31,3 +31,7 @@ git clone git@github.com:chpwssn/card-bluff.git
 cd card-bluff
 cargo run
 ```
+
+## Example output
+
+If you'd like to see an example of the output without building the binary locally see the [example.txt](example.txt) file.

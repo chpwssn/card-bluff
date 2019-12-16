@@ -10,5 +10,5 @@ fn main() {
     while dealer.can_play_round() {
         dealer.play_round();
     }
-    println!("Made it {} rounds", dealer.round)
+    println!("Made it {} rounds.", dealer.round,)
 }
